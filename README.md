@@ -39,6 +39,6 @@ With expertise in **web design**, **mobile app design**, and **graphic creation*
 ## 💸 Support My Work:
 If you like what I do and want to support me, consider buying me a coffee! ☕  
 
-[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7941D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://paypalme/kritiseth0005)
+[![Buy Me A Coffee](https://img.shields.io/badge/Buy%20Me%20A%20Coffee-F7941D?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white)](https://paypal.me/kritiseth0005)
 
 Let’s build something amazing together! 🚀
